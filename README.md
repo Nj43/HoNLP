@@ -1,3 +1,3 @@
-**Hands on NLP
+**Hands on NLP**
 
 Fake job detection project
